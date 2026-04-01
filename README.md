@@ -6,7 +6,7 @@ using a local open-source LLM.
 
 ------------------------------------------------------------------------
 
-## 🚀 Overview
+##  Overview
 
 This project demonstrates how Generative AI can be used to review SOW
 documents and detect:
@@ -21,7 +21,7 @@ Ollama), avoiding external API dependencies.
 
 ------------------------------------------------------------------------
 
-## 🧠 Key Features
+##  Key Features
 
 -   Upload SOW PDF documents\
 -   Extract and process document content\
@@ -32,13 +32,13 @@ Ollama), avoiding external API dependencies.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Architecture
+##  Architecture
 
 User Upload PDF → PDF Extraction → LLM Analysis → Output Display
 
 ------------------------------------------------------------------------
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 -   Python\
 -   Streamlit\
@@ -48,7 +48,7 @@ User Upload PDF → PDF Extraction → LLM Analysis → Output Display
 
 ------------------------------------------------------------------------
 
-## 📦 Installation
+##  Installation
 
 ``` bash
 git clone https://github.com/your-username/sow-analyzer.git
@@ -62,7 +62,7 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
-## ⚠️ MVP Scope
+##  MVP Scope
 
 -   Max 10 pages\
 -   Single document\
@@ -70,6 +70,6 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
 GenAI MVP project for SOW validation.
